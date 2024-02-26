@@ -23,7 +23,7 @@
 
 Cоздайте файл FirstProgram.java, содержащий исходный код одного пустого класса с именем FirstClass:
 
-|```
+\```java
 (FirstProgram.java)
 class FirstClass {
 }
